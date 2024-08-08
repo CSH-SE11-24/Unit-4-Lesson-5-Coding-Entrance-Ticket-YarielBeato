@@ -1,0 +1,22 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: grey;
+}
+h1{
+  background-color: black;
+  color:orange;
+  
+}
+#sp{
+  color:white;
+  text-align: center;
+}
+.ps{
+  color:white;
+}
+.cc{
+  border-image:40px;
+}
